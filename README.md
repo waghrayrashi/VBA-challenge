@@ -1,4 +1,5 @@
-# VBA-challenge
-Week 2 HW on VBA - Due Mar 14
+# VBA-challenge - Due Mar 14
 
-Final VBA scrip is: VBA Homework - Solved.bas
+VBA script: VBA Homework - Solved.bas
+Screenshot of 2014 summary: image.png
+Screenshots of all years: VBA Homework Screenshots.docx
